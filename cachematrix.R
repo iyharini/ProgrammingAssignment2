@@ -1,4 +1,4 @@
-## First creating a matrix onject that can cache its inverse.
+## First creating a matrix object that can cache its inverse.
 ## Then CachSolve retrieves the inverse using Solve()
 
 ## Creating a special matrix object that can cache its inverse
